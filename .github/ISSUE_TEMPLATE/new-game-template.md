@@ -1,5 +1,5 @@
 ---
-name: New Game template
+name: New Game template 新建游戏模板
 about: propose a new game
 title: ''
 labels: ''
